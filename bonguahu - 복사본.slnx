@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="bonguahu/bonguahu.vcxproj" Id="ded0bb03-0c56-4381-a312-b4a9464b9592" />
-</Solution>
