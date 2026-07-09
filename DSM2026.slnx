@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ch0_and/ch0_and.vcxproj" Id="0e11aa08-e3c4-4ced-9141-d13df43cb80c" />
+  <Project Path="cho1_01/cho1_01.vcxproj" Id="4dd20b60-6652-46ac-9f70-35f4e6d06a69" />
+  <Project Path="cho1_02/cho1_02.vcxproj" Id="368afbbc-92d9-45c8-8cac-0da4548acf24" />
+  <Project Path="cho1_03/cho1_03.vcxproj" Id="64ac9f63-9847-498c-9e71-3d77eae4545e" />
+  <Project Path="cho1_2/cho1_2.vcxproj" Id="ffc80967-b065-4caa-8407-08667f9b5bac" />
+  <Project Path="cho5_/cho5_.vcxproj" Id="c7c904a6-3132-4925-9a8d-6cf7ea8accfa" />
+  <Project Path="cho_Notand/cho_Notand.vcxproj" Id="6cc80857-30c6-4ff0-9681-f6a01122e863" />
+  <Project Path="for/for.vcxproj" Id="63d09882-189b-4a50-8530-5876db9e4b88" />
+  <Project Path="legend_ifmon/legend_ifmon.vcxproj" Id="cf7d948b-8250-4bb5-9ef0-129075a629ea" />
+  <Project Path="Project1/Project1.vcxproj" Id="ef4c6b29-606a-4bef-99c0-dfa8e963c3b3" />
+  <Project Path="Project2/Project2.vcxproj" Id="609f72eb-9313-4458-b1b1-24a57a869e03" />
+</Solution>
